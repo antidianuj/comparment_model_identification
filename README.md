@@ -7,5 +7,4 @@ This objective function can be easily expandible into minimization of L1 norm of
 In this way, we can get the underlying differential system with simple components that can be back traced towards a compartment model.
 For the case of demo, the data is divided into 50 days interval to model only confirmed and recovered case daily numbers, and in this way the corresponding dynamics of the pandemic (represented by compartment model)
 evolve over time, contrary to a typical variable parameter system approach. 
-The corresponding demo is shown below.
-![](https://github.com/[dianuj1997]/[comparment_model_identification]/blob/[main]/demo.gif?raw=true)
+The corresponding demo is shown in demo.gif
