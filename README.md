@@ -8,5 +8,7 @@ In this way, we can get the underlying differential system with simple component
 For the case of demo, the data is divided into 50 days interval to model only confirmed and recovered case daily numbers, and in this way the corresponding dynamics of the pandemic (represented by compartment model)
 evolve over time, contrary to a typical variable parameter system approach. 
 The corresponding demo is shown in
-[[demo.gif]]
+![image](demo.gif)
+
+
 
